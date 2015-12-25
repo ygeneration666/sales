@@ -19,7 +19,7 @@ public class LoginForm {
 	/**
 	 * ドメインID
 	 */
-	public String domainId;
+	public String domainId = "sales";
 
 	/**
 	 * ユーザID
