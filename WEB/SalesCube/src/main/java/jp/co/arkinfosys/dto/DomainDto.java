@@ -19,6 +19,6 @@ public class DomainDto implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    public String domainId = "sales";
+    public String domainId = "SALES";
 
 }
