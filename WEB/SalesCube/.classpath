@@ -20,7 +20,6 @@
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/iText-2.1.7.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jakarta-oro-2.0.8.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jakarta-taglibs-standard-1.1.2.jar"/>
-	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javassist-3.4.ga.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jfreechart-1.0.12.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jsonic-1.1.2.jar"/>
 	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/jstl-1.1.2.jar"/>
@@ -51,5 +50,6 @@
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
 	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javassist.jar"/>
 	<classpathentry kind="output" path="src/main/webapp/WEB-INF/classes"/>
 </classpath>

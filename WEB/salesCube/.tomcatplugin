@@ -4,8 +4,15 @@
     <exportSource>false</exportSource>
     <reloadable>true</reloadable>
     <redirectLogger>false</redirectLogger>
+<<<<<<< HEAD
     <updateXml>false</updateXml>
     <warLocation>/Users/labots/Documents/eclipse/sales/sales.war</warLocation>
     <extraInfo></extraInfo>
     <webPath></webPath>
+=======
+    <updateXml>true</updateXml>
+    <warLocation>C:\Users\ykoyama.000\git\sales\sales.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/sales</webPath>
+>>>>>>> 7b0856630698ae77e794f736df5385a4f241c762
 </tomcatProjectProperties>

@@ -19,7 +19,11 @@ public class LoginForm {
 	/**
 	 * ドメインID
 	 */
+<<<<<<< HEAD
 	public String domainId = "sales";
+=======
+	public String domainId = "SALES";
+>>>>>>> 7b0856630698ae77e794f736df5385a4f241c762
 
 	/**
 	 * ユーザID

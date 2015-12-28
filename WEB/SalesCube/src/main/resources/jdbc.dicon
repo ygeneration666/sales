@@ -124,8 +124,13 @@
 		<property name="URL">
 			"jdbc:mysql://localhost:3306/salescube"
 		</property>
+<<<<<<< HEAD
 		<property name="user">"root"</property>
 		<property name="password">"labots.co"</property>
+=======
+		<property name="user">"-"</property>
+		<property name="password">"-"</property>
+>>>>>>> 7b0856630698ae77e794f736df5385a4f241c762
 	</component>
 
 	<!-- for SQLServer -->
