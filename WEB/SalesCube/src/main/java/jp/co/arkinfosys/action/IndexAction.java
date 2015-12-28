@@ -19,6 +19,7 @@ public class IndexAction extends CommonResources {
 	 */
 	@Execute(validator = false)
 	public String index() {
+		httpRequest.setAttribute("domainId", "sales");
 		return "/login";
 	}
 }
